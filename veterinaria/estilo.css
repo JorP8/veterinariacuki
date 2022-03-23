@@ -1,0 +1,47 @@
+*{
+	font-family: sans-serif;
+}
+header h1 {
+	color: white;
+	background-color: blueviolet;
+	padding: 0px;
+	margin:0px;
+	
+}
+div.text{
+
+	text-align: center;
+}
+div.text2{
+	color: red;
+	text-align: center;
+}
+div.text3{
+	text-align: center;
+}
+
+.menu {
+	color: gray;
+	text-align: right;
+	display: block;
+	
+}
+
+  div.imgagen {
+  	margin: 120px;
+  	width: 200px;
+  	float: left;
+  	
+
+  }
+  .imgagen img{
+  	width: 100%;
+  	height: auto;
+  }
+  div.pie {
+  	padding: 0;
+  	margin: 0;
+  	text-align: center;
+
+  }
+  
