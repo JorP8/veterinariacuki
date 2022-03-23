@@ -1,6 +1,10 @@
 *{
 	font-family: sans-serif;
 }
+body{
+	background-color:#633974;
+	color: white;
+}
 header h1 {
 	color: white;
 	background-color: blueviolet;
@@ -9,25 +13,29 @@ header h1 {
 	
 }
 div.text{
-
+font-size: medium;
 	text-align: center;
 }
 div.text2{
 	color: red;
 	text-align: center;
+	font-size: x-large;
 }
 div.text3{
 	text-align: center;
+	font-size: x-large;
 }
 
 .menu {
-	color: gray;
+	background-color: #BB8FCE;
+	color: white;
 	text-align: right;
 	display: block;
 	
 }
 
   div.imgagen {
+  	background-color: blueviolet;
   	margin: 120px;
   	width: 200px;
   	float: left;
@@ -43,5 +51,8 @@ div.text3{
   	margin: 0;
   	text-align: center;
 
+  }
+  footer.futer{
+  	background-color: blueviolet;
   }
   
